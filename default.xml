@@ -28,7 +28,7 @@
 
   <!-- AOSP Projects -->
 
-  <project path="build/make" name="nenggala-project/android_build" remote="nenggala" groups="pdk" >
+  <project path="build/make" name="FIK-NaroOS/android_build" remote="naroos" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
