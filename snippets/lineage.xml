@@ -35,7 +35,7 @@
   <project path="hardware/broadcom/nfc" name="LineageOS/android_hardware_broadcom_nfc" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" />
   <project path="hardware/lineage/livedisplay" name="LineageOS/android_hardware_lineage_livedisplay" />
-  <project path="nenggala-sdk" name="nenggala-project/android_nenggala-sdk" remote="nenggala" />
+  <project path="nenggala-sdk" name="FIK-NaroOS/android_nenggala-sdk" remote="naroos" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
   <project path="packages/apps/Eleven" name="nenggala-project/android_packages_apps_Eleven" remote="nenggala" />
